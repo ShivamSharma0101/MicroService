@@ -1,6 +1,6 @@
 spring:
-  aplication:
-   name: DEFAULT
+  application:
+    name: DEFAULT-SERVICE
 
 eureka:
   client:
