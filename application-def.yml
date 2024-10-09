@@ -2,7 +2,8 @@ server:
   port: 8088
 
 allowed:
-  path: C:\Users\HP\Downloads\DEMO
+   path: D:\New Demo
+#  path: C:\Users\HP\Downloads\DEMO
   cpuID: BFEBFBFF000806E9 
  # BFEBFBFF00090675
 
