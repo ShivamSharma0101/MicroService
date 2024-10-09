@@ -4,3 +4,6 @@ server:
 allowed:
   path: C:\Users\HP\Downloads
 
+allowed:
+  cpuID: BFEBFBFF00090675
+
