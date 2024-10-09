@@ -1,8 +1,4 @@
 server:
   port: 8088
 
-spring:
-  application:
-    name: CONFIG-DEFAULT
-
 
