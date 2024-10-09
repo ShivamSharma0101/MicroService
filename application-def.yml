@@ -1,4 +1,6 @@
 server:
   port: 8088
 
+allowed:
+  path: C:\Users\HP\Downloads\DEMO
 
