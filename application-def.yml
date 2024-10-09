@@ -3,5 +3,6 @@ server:
 
 allowed:
   path: C:\Users\HP\Downloads\DEMO
-  cpuID: BFEBFBFF00090675
+  cpuID: BFEBFBFF000806E9 
+ # BFEBFBFF00090675
 
