@@ -1,9 +1,5 @@
-spring:
-  application:
-    name: CONFIG-DEFAULT
-
 server:
-  port: 8088
+  port: 8083
 
 # eureka:
 #   client:
